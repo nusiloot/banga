@@ -1,0 +1,190 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: red;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.navbar-nav > li{
+  padding-left:60px;
+  padding-right:60px;
+}
+
+
+.BackgroundYolo {
+  min-height: 100vh;
+  background: url(./pics/jenaye-fr-other-test.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.MyLogo {
+  display: block;
+  width: 20vw;
+  z-index: 1;
+} 
+
+.logo-text {
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
+}
+
+.mainText {
+  font-size: 3em;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+.changeMe {
+  background-color: black;
+
+}
+
+a:link {
+  color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+/* selected link */
+a:active {
+  color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+.container-home{
+ 
+  display: flex;
+  height: 100vh;
+  position: relative;
+  align-items: center;
+}
+
+.barre{
+  height: 60px;
+  background: #b8b8b8;
+  width: 100vw;
+  position: absolute;
+  transform: rotate(-46deg);
+ 
+}
+
+.note{
+  display: none;
+}
+
+
+@media screen and (min-width: 1800px)
+{
+  .barre{
+    left: -42vw;
+  }
+
+  .container-home{
+    margin-left: 40vw;
+  }
+  .MyLogo{
+    width: 20vw;
+  }
+}
+
+@media screen and (min-width: 1650px) and (max-width: 1799px)
+{
+  .barre{
+    left: -42vw;
+  }
+
+  .container-home{
+    margin-left: 44vw;
+  }
+  .MyLogo{
+    width: 20vw;
+  }
+}
+
+@media screen and (min-width: 1650px) and (max-width: 1799px)
+{
+  .barre{
+    left: -42vw;
+  }
+
+  .container-home{
+    margin-left: 44vw;
+  }
+  .MyLogo{
+    width: 20vw;
+  }
+}
+
+@media screen and (min-width: 1470px) and (max-width: 1649px)
+{
+  .barre{
+    left: -42vw;
+  }
+
+  .container-home{
+    margin-left: 50vw;
+  }
+  .MyLogo{
+    width: 20vw;
+  }
+}
+
+@media screen and  (max-width: 1469px)
+{
+  .barre{
+    display: none
+  }
+
+  .container-home{
+   
+  margin-left: 0;
+  justify-content: center;
+}
+  .MyLogo{
+    display: none;
+  }
+
+  .note{
+    display: block !important;
+    color:white;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    white-space:nowrap;
+  }
+}
+
+
+.customHauteur {
+
+  height: 100vh;
+  overflow-y: auto;
+  padding-top: 10vh;
+  padding-bottom: 20vh;
+}
