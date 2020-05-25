@@ -1,7 +1,7 @@
 # Jenaye
 
 <p align="center">
-  <img alt="jenaye logo" src="https://raw.githubusercontent.com/jenaye/banga/master/src/pics/toutpetit.png" height="150" />
+  <img alt="jenaye logo" src="https://raw.githubusercontent.com/jenaye/banga/master/src/pics/logo.png" height="150" />
 </p>
 
 
