@@ -18,3 +18,9 @@
 <a href="https://github.com/jenaye">Github</a>
 
 By Email : Jenaye[@]protonmail.com
+
+Special Thanks to 
+
+- [Darkweak](https://github.com/Darkweak)
+
+- [tiboCorb](https://github.com/tiboCorb)
