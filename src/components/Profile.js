@@ -9,17 +9,17 @@ const links = [
   },
   {
     class: 'text-danger',
-    link: 'https://www.root-me.org/jenaye?lang=fr',
+    link: 'https://www.hackthebox.eu/profile/12858',
     name: 'Hackthebox',
   },
   {
-    link: 'https://www.root-me.org/jenaye?lang=fr',
+    link: 'https://twitter.com/Jenaye_fr',
     name: 'Twitter',
   },
   {
-    link: 'https://www.root-me.org/jenaye?lang=fr',
+    link: 'https://github.com/jenaye',
     name: 'Github',
-  },
+  }
 ];
 
 export const Profile = () => (
@@ -52,7 +52,10 @@ export const Profile = () => (
 
     <br/>
     <Alert variant="dark">
-      Contact by email  jenaye[@]protonmail.com
+      Contact by email jenaye[@]protonmail.com
+    </Alert>
+    <Alert variant="dark">
+      You can push pull request if you find bugs :  <a href="https://github.com/jenaye/banga">here</a>
     </Alert>
   </Jumbotron>
   </>
