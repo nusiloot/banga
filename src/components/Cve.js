@@ -19,7 +19,7 @@ export const Cve = () => (
       getCves().map((cveItem, key) => (
         <div className='py-3'>
           <Card key={key}>
-            <Card.Header>Openupload - CVE-{cveItem.number}</Card.Header>
+            <Card.Header>{cveItem.title} - CVE-{cveItem.number}</Card.Header>
             <Card.Body>
               <blockquote className="blockquote mb-0">
                 <div dangerouslySetInnerHTML={{__html: cveItem.description}}/>
