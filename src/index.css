@@ -163,7 +163,7 @@ a:active {
   justify-content: center;
 }
   .MyLogo{
-    display: none;
+    width: 50vh;
   }
 
   .note{

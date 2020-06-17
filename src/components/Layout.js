@@ -12,7 +12,7 @@ export const Layout = ({ children }) => (
         <Nav className="ml-auto justify-content-end">
           { routes.map((item, key) => (
             <>
-              <Nav.Link href={ item.path } className="text-white logo-text">{ item.label }</Nav.Link>
+              <Nav.Link key={key} href={ item.path } className="text-white logo-text">{ item.label }</Nav.Link>
               <span className='my-auto text-white d-none d-lg-inline-flex'>
                 { routes[key + 1] ? ' | ' : '' }
               </span>

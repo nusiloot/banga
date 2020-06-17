@@ -13,7 +13,7 @@ ReactDOM.render(
         <Layout>
           {
             routes.map((item, key) => (
-              <Route exact strict {...item}/>
+              <Route key={key} exact strict {...item}/>
             ))
           }
         </Layout>
