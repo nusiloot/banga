@@ -26,7 +26,7 @@ export const Cve = () => (
                 <b className='d-block'>
                   Score : { getDanger(cveItem.score) } ({ cveItem.score })
                 </b>
-                <p>Date : { new Date(cveItem.date).toLocaleDateString() }</p>
+                <p>Date : {cveItem.date}</p>
                 <footer className="blockquote-footer">
                   Category : <cite title="Source Title">{ cveItem.category }</cite>
                 </footer>
