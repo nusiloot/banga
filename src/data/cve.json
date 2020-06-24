@@ -2,7 +2,7 @@
   {
     "number": "2020-14950",
     "title": "aapanel",
-    "description": "<p>Remote Command Execution by Software store menu.  POC :  <a target='_blank' rel='noreferrer' href='https://github.com/jenaye/aapanel'>here</a></p>",
+    "description": "<p>Remote Command Execution by Software store menu.  POC :  <a target='_blank' rel='noopener noreferrer' href='https://github.com/jenaye/aapanel'>here</a></p>",
     "score": "8",
     "date": "2020-20-06",
     "category": "RCE"
@@ -10,7 +10,7 @@
   {
     "number": "2020-14421",
     "title": "aapanel",
-    "description": "<p>Allows attacker to run arbitrary command remotely. POC :  <a target='_blank' rel='noreferrer' href='https://github.com/jenaye/aapanel#aapanel-666---cve-2020-14421'>here</a></p>",
+    "description": "<p>Allows attacker to run arbitrary command remotely. POC :  <a target='_blank' rel='noopener noreferrer' href='https://github.com/jenaye/aapanel#aapanel-666---cve-2020-14421'>here</a></p>",
     "score": "8",
     "date": "2020-18-06",
     "category": "RCE"
@@ -18,7 +18,7 @@
   {
     "number": "2020-14146",
     "title": "KumbiaPHP",
-    "description": "<p>Through 1.1.1 allows XSS via public/pages/kumbia PATH_INFO. POC :  <a target='_blank' rel='noreferrer' href='https://github.com/jenaye/KumbiaPHP-'>here</a></p>",
+    "description": "<p>Through 1.1.1 allows XSS via public/pages/kumbia PATH_INFO. POC :  <a target='_blank' rel='noopener noreferrer' href='https://github.com/jenaye/KumbiaPHP-'>here</a></p>",
     "score": "5.4",
     "date": "2020-14-06",
     "category": "XSS"
@@ -26,7 +26,7 @@
   {
     "number": "2020-11712",
     "title": "Openupload",
-    "description": "<p>Through 0.4.3 allows XSS via index.php?action=u and the filename field. POC :  <a target='_blank' rel='noreferrer' href='https://github.com/jenaye/cve/blob/master/readme.MD'>here</a></p>",
+    "description": "<p>Through 0.4.3 allows XSS via index.php?action=u and the filename field. POC :  <a target='_blank' rel='noopener noreferrer' href='https://github.com/jenaye/cve/blob/master/readme.MD'>here</a></p>",
     "score": "6.1",
     "date": "2020-12-04",
     "category": "XSS"
