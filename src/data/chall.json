@@ -1,7 +1,7 @@
 [
     {
       "name": "Goland",
-      "eventName": "Root-me - 2018",
+      "eventName": "Root-me 2018",
       "description": "<span>You must find the hardcover password in a binary encoded in Go language. check it out <a target='_blank' rel='noopener noreferrer' href='https://www.root-me.org/fr/Challenges/Cracking/ELF-x64-Golang-basique'>here</a></span>",
       "category": "Reverse"
     },

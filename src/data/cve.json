@@ -2,7 +2,7 @@
   {
     "number": "2020-14950",
     "title": "aapanel",
-    "description": "<p>Remote Command Execution by Software store menu.  POC :  <a target='_blank' rel='noopener noreferrer' href='https://github.com/jenaye/aapanel'>here</a></p>",
+    "description": "<p>Remote Command Execution by Software store menu.  POC :  <a target='_blank' rel='noopener noreferrer' href='https://github.com/jenaye/aapanel#aapanel-666---cve-2020-14950'>here</a></p>",
     "score": "8",
     "date": "2020-20-06",
     "category": "RCE"
