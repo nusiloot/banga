@@ -1,5 +1,13 @@
 [
   {
+    "number": "2020-25287",
+    "title": "pligg",
+    "description": "<p>Remote authenticated users to execute arbitrary commands because the template editor can edit any file  POC :  <a target='_blank' rel='noopener noreferrer' href='https://github.com/jenaye/pligg/blob/master/README.md'>here</a></p>",
+    "score": "7.2",
+    "date": "2020-13-09",
+    "category": "RCE"
+  },
+  {
     "number": "2020-14950",
     "title": "aapanel",
     "description": "<p>Remote Command Execution by Software store menu.  POC :  <a target='_blank' rel='noopener noreferrer' href='https://github.com/jenaye/aapanel#aapanel-666---cve-2020-14950'>here</a></p>",
