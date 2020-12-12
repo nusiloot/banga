@@ -40,6 +40,14 @@ code {
   z-index: 1;
 } 
 
+.LogoSmersh {
+display: block;
+width: 13vh;
+margin-left: auto;
+margin-right: auto;
+
+} 
+
 .cv {
   color:red !important;
 }
