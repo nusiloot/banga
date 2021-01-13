@@ -1,5 +1,5 @@
 import React from 'react'
-import {Jumbotron, Card , ListGroup, Alert} from 'react-bootstrap'
+import {Jumbotron, Card , ListGroup, Button, Accordion , Alert} from 'react-bootstrap'
 
 const links = [
   {
@@ -50,6 +50,23 @@ export const Profile = () => (
       </ListGroup>
     </Card>
 
+<Accordion defaultActiveKey="0">
+  <Card>
+    <Card.Header>
+      <Accordion.Toggle as={Button} variant="dark" eventKey="0">
+        Certifications
+      </Accordion.Toggle>
+    </Card.Header>
+    <Accordion.Collapse eventKey="0">
+      <Card.Body>
+          Cyber Security Foundation - 2021 <br/>
+          Azure Storage Security - 2019 <br/>
+          Cisco VPNs with GNS3 ( GRE, IPSec, DMVPN ) - 2019 <br/>
+          Cryptocurrency Fundamentals - 2018
+      </Card.Body>
+    </Accordion.Collapse>
+  </Card>
+</Accordion>
     <br/>
     <Alert variant="dark">
       Contact by email jenaye[@]protonmail.com
