@@ -49,7 +49,7 @@ export const Profile = () => (
         }
       </ListGroup>
     </Card>
-
+<br/>
 <Accordion defaultActiveKey="0">
   <Card>
     <Card.Header>
