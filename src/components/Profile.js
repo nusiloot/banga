@@ -19,8 +19,13 @@ const links = [
   {
     link: 'https://github.com/jenaye',
     name: 'Github',
+  },
+  {
+    link: 'https://www.malt.fr/profile/mikehouziaux',
+    name: 'Malt',
   }
 ];
+
 
 export const Profile = () => (
 <>
@@ -28,7 +33,7 @@ export const Profile = () => (
   <Jumbotron>
     <h1>Houziaux Mike</h1>
 
-    I'm an IT engineer and I'm working as a pentester for Orange Cyberdefense.<br/>
+    I'm an IT engineer and I'm working as a pentester for Orange Cyberdefense and freelance developper<br/>
 
     I am a contributor to the <a target='_blank' rel='noopener noreferrer' href="http://rtfm.re/">RTFM</a> association, especially to the challenges creations part of the <a href="https://twitter.com/sigsegv_event">Sigvsegv event</a>.<br/>
 
