@@ -2,10 +2,17 @@
     {
       "title": "How to get paid to hack and avoid jail",
       "eventName": "English Week 2021",
-      "description": "<span> The purpose of English Week is to present to students interesting work from different fields in computer science. The event is held annually at IUT Vannes and organized by the student council. All conferences were streamed on Twitch :  website <a target='_blank' rel='noopener noreferrer' href='https://englishweek2021.github.io/'>here</a></span>",
+      "description": "<span> The purpose of English Week is to present to students interesting work from differents fields in computer science. The event is held annually at IUT Vannes and organized by the student council. All conferences were streamed on Twitch :  website <a target='_blank' rel='noopener noreferrer' href='https://englishweek2021.github.io/'>here</a></span>",
       "language": "English",
       "date": "02/02/2021",
       "slide": "https://jenaye.github.io/pentest-presentation/"
+    },
+    {
+      "title": "Smersh",
+      "eventName": "Friday Talk",
+      "description": "<span>Presentation of the tool and its features after a few months of development to the Orange and Sensepost teams</span>",
+      "language": "English",
+      "date": "26/03/2021",
+      "slide": "https://cmepw.github.io/slides/"
     }
-  ]
-  
+]
