@@ -1,4 +1,21 @@
 [
+
+  {
+    "number": "2020-27577",
+    "title": "EasyVista",
+    "description": "<p>A Reflected Client Side Template Injection (CSTI) with Angular was discovered in EasyVista 2018.1.185.5 in menu forms. An attacker can inject an Angular expression and escape the Angular sandbox to achieve stored XSS. :  <a target='_blank' rel='noopener noreferrer' href='https://github.com/jenaye/EasyVista#easyvista-201811855---cve-xxx'>here</a></p>",
+    "score": "6",
+    "date": "2020-10-20",
+    "category": "CSTI"
+  },
+  {
+    "number": "2020-27578",
+    "title": "EasyVista",
+    "description": "<p>memo_barcode in EasyVista 2018.1.185.5 is vulnerable to reflected XSS from bar_code.php.  <a target='_blank' rel='noopener noreferrer' href='https://github.com/jenaye/EasyVista#easyvista-201811855---cve-xxx-1'>here</a></p>",
+    "score": "5",
+    "date": "2020-10-20",
+    "category": "XSS"
+  },
   {
     "number": "2020-25287",
     "title": "pligg",
