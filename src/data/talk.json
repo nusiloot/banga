@@ -14,5 +14,13 @@
       "language": "English",
       "date": "26/03/2021",
       "slide": "https://cmepw.github.io/slides/"
+    },
+    {
+      "title": "Smersh",
+      "eventName": "What The Fabrik",
+      "description": "<span>Presentation of the tool and the next steps</span>",
+      "language": "French",
+      "date": "17/05/2021",
+      "slide": "https://cmepw.github.io/slides/"
     }
 ]

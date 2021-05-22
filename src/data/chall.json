@@ -6,6 +6,12 @@
       "category": "Reverse"
     },
     {
+      "name": "LEHACK",
+      "eventName": "LEHACK 2020",
+      "description": "<span>this challenge will be published at the next event</span>",
+      "category": "Reverse"
+      },
+    {
       "name": "What The FIC",
       "eventName": "FIC 2020",
       "description": "<span>Most people think that using an API with a JWT is enough to protect a site, here's a writeup proving to them that you have to be careful. Writeup : <a target='_blank' rel='noopener noreferrer' href='https://github.com/Orange-Cyberdefense/ctf-write-ups/blob/master/2020/FIC/what-the-fic/README.md'>here</a></span>",
