@@ -1,4 +1,28 @@
 [
+  {
+    "title": "Présentation du métier de pentesteur avec live démo",
+    "eventName": "PoC Innovation - EPITECH",
+    "description": "<span>Durant ce talk d'1h30, nous avons vu l'ensemble des responsabilités et des facettes du métier de pentesteur, puis une démonstration (externe + pivot + interne) sur un environnement virtuel (promox) pour finir sur une présentation de SMERSH.</span>",
+    "language": "Français",
+    "date": "24/06/2021",
+    "slide": "https://jenaye.github.io/pentest-presentation/"
+  },
+  {
+    "title": "Smersh",
+    "eventName": "What The Fabrik",
+    "description": "<span>Presentation of the tool and the next steps</span>",
+    "language": "French",
+    "date": "17/05/2021",
+    "slide": "https://cmepw.github.io/slides/"
+  },
+  {
+    "title": "Smersh",
+    "eventName": "Friday Talk",
+    "description": "<span>Presentation of the tool and its features after a few months of development to the Orange and Sensepost teams</span>",
+    "language": "English",
+    "date": "26/03/2021",
+    "slide": "https://cmepw.github.io/slides/"
+  },
     {
       "title": "How to get paid to hack and avoid jail",
       "eventName": "English Week 2021",
@@ -6,21 +30,5 @@
       "language": "English",
       "date": "02/02/2021",
       "slide": "https://jenaye.github.io/pentest-presentation/"
-    },
-    {
-      "title": "Smersh",
-      "eventName": "Friday Talk",
-      "description": "<span>Presentation of the tool and its features after a few months of development to the Orange and Sensepost teams</span>",
-      "language": "English",
-      "date": "26/03/2021",
-      "slide": "https://cmepw.github.io/slides/"
-    },
-    {
-      "title": "Smersh",
-      "eventName": "What The Fabrik",
-      "description": "<span>Presentation of the tool and the next steps</span>",
-      "language": "French",
-      "date": "17/05/2021",
-      "slide": "https://cmepw.github.io/slides/"
     }
 ]

@@ -9,7 +9,7 @@ export const Talk = () => (
       getTalks().map((talkItem, key) => (
         <div className='py-3'>
           <Card key={key}>
-            <Card.Header>{talkItem.title} </Card.Header>
+            <Card.Header><b>{talkItem.eventName}</b> - {talkItem.title}</Card.Header>
             <Card.Body>
               <blockquote className="blockquote mb-0">
                 <div dangerouslySetInnerHTML={{__html: talkItem.description}}/>

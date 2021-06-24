@@ -31,7 +31,7 @@ export const Projets = () => (
 
     <br/>
     <Alert variant="dark">
-      Contact by email jenaye[@]protonmail.com
+      Contact by email cmepw[@]protonmail.com
     </Alert>
     <Alert variant="dark">
       You can push pull request if you find bugs :  <a target='_blank' rel='noopener noreferrer' href="https://github.com/CMEPW/Smersh/issues">here</a>

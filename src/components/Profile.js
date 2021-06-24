@@ -4,6 +4,21 @@ import {Jumbotron, Card , ListGroup, Button, Accordion , Alert} from 'react-boot
 const links = [
   {
     class: 'text-dark',
+    link: 'https://hackerone.com/jenaye/badges?type=user',
+    name: 'Hackerone',
+  },
+  {
+    class: 'text-dark',
+    link: 'https://twitter.com/Jenaye_fr',
+    name: 'Twitter',
+  },
+  {
+    class: 'text-dark',
+    link: 'https://github.com/jenaye',
+    name: 'Github',
+  },
+  {
+    class: 'text-dark',
     link: 'https://www.root-me.org/jenaye?lang=fr',
     name: 'Root-me',
   },
@@ -13,14 +28,7 @@ const links = [
     name: 'Hackthebox',
   },
   {
-    link: 'https://twitter.com/Jenaye_fr',
-    name: 'Twitter',
-  },
-  {
-    link: 'https://github.com/jenaye',
-    name: 'Github',
-  },
-  {
+    class: 'text-dark',
     link: 'https://www.malt.fr/profile/mikehouziaux',
     name: 'Malt',
   }
@@ -64,6 +72,7 @@ export const Profile = () => (
     </Card.Header>
     <Accordion.Collapse eventKey="0">
       <Card.Body>
+          Red Team Ethical Hacking - 2021<br/>
           Cyber Security Foundation - 2021 <br/>
           Azure Storage Security - 2019 <br/>
           Cisco VPNs with GNS3 ( GRE, IPSec, DMVPN ) - 2019 <br/>
