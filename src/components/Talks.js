@@ -16,7 +16,13 @@ export const Talk = () => (
                 <p>Date : {talkItem.date}</p>
                 <footer className="blockquote-footer">
                 language : <cite title="language">{ talkItem.language }</cite><br/>
-                Slide : <cite title="Slides">{ talkItem.slide }</cite>
+                {
+                  talkItem.slide && (
+                    <>
+                      Slide : <cite title="Slides">{talkItem.slide}</cite>
+                    </>
+                  )
+                }
                 </footer>
               </blockquote>
             </Card.Body>
