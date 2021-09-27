@@ -1,5 +1,13 @@
 [
   {
+    "title": "SMERSH : Plateforme collaborative pour les pentesters",
+    "eventName": " DEFCON GROUP DC11333 - Lille",
+    "description": "<span>Présentation de SMERSH, un outil répondant au besoin d'une meilleure organisation des missions de pentests. Le but est de proposer une interface simple aussi bien en CLI qu'en GUI pour faciliter le quotidien des pentesteurs et de leurs responsables.</span>",
+    "language": "French",
+    "date": "28/09/2021",
+    "slide": "https://cmepw.github.io/slides"
+  },
+  {
     "title": "From piffling vulnerability to internal network",
     "eventName": "Forum international de la cybersécurité (FIC)",
     "description": "<span>Exemple d'un phishing amenant à la compromission d'une machine par le biais d'un maldoc et de Cobalt Strike</span>",
