@@ -1,6 +1,7 @@
 import { Cve } from './components/Cve';
 import { Home } from './components/Home';
 import { Profile } from './components/Profile';
+import { Publications } from './components/Publications';
 import { Talk } from './components/Talks';
 import { Projets } from './components/Projets';
 import { Challenge } from './components/Challenges';
@@ -20,6 +21,11 @@ export const routes = [
     label: 'Talks',
     path: '/talks',
     component: Talk,
+  },
+  {
+    label: 'Publications',
+    path: '/publications',
+    component: Publications,
   },
   {
     label: 'Projets',
